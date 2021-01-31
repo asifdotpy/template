@@ -41,7 +41,7 @@ p a:hover {
 }
 #header {
 	margin: 0 auto;
-	padding: 4px 0 50px;
+	padding: 44px 0 50px;
 	text-align: center;
 	width: 960px;
 }
@@ -59,7 +59,7 @@ p a:hover {
 }
 #header ul {
 	margin: 0;
-	padding: 25px 0 0;
+	padding: 56px 0 0;
 }
 #header ul li {
 	display: inline;
@@ -219,7 +219,6 @@ p a:hover {
 	margin: 0;
 	padding: 0;
 	width: 100%;
-	height: auto;
 }
 #body #featured div {
 	left: 50%;
