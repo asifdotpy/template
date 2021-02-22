@@ -140,13 +140,12 @@ p a:hover {
 #body > div .article p {
 	margin: 0 0 30px;
 }
-#body div div ul {
+#body div di ul {
 	margin: 0;
 	padding: 24px 10px 0;
 	width: 940px;
-	list-style-type: none;
 }
-#body div div ul li {
+#body div ul li {
 	border: 2px solid #1a1a1a;
 	display: block;
 	list-style: none;
@@ -398,20 +397,9 @@ p a:hover {
 	background-position: -44px -44px;
 }
 
-div .intro h1 {
-	margin: 0px 50px;
-	padding: 0px 50px;
-	background-color: #0ba39c;
-	text-decoration: #1a1a1a;
-}
-
-div .intro p {
-	margin: 10px;
-	padding: 10px;
-}
-
-div .main {
-	font-size: 15px;
+div .intro {
+	height: fit-content;
+	width: fit-content;
 }
 
 
