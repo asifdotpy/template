@@ -106,7 +106,7 @@ p a:hover {
 	width: 960px;
 }
 #body > div img {
-	border: 0 auto;
+	border: 2px solid #292929;
 	margin: 24px 0 0;
 	padding: 0;
 }
@@ -423,9 +423,11 @@ div .main {
 }
 .post-thumb {
     float: left;
+	border: 0 auto;
 }
 .post-thumb img {
     display: block;
+	border: 0 au;
 }
 .post-content {
     margin-left: 210px
