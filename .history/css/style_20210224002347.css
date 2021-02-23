@@ -83,7 +83,7 @@ p a:hover {
 #body {
 	margin: 0;
 	padding: 0 0 30px;
-	text-align: center;
+	text-align: justify;
 }
 #body h1 {
 	color: #fff;
@@ -139,7 +139,6 @@ p a:hover {
 }
 #body > div .article p {
 	margin: 0 0 30px;
-	text-align: justify;
 }
 #body div div ul {
 	margin: 0;
@@ -435,9 +434,3 @@ div .main {
     font-weight: bold;
     font-size: 200%
 }
-
-div .main {
-	text-align: justify;
-}
-
-div .article

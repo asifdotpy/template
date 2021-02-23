@@ -139,7 +139,6 @@ p a:hover {
 }
 #body > div .article p {
 	margin: 0 0 30px;
-	text-align: justify;
 }
 #body div div ul {
 	margin: 0;
@@ -437,7 +436,6 @@ div .main {
 }
 
 div .main {
-	text-align: justify;
+	text-align: ;
 }
 
-div .article
